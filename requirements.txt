@@ -1,0 +1,5 @@
+pandas
+reportlab
+matplotlib
+anthropic
+flask
